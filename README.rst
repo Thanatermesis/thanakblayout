@@ -1,6 +1,9 @@
 Thanatermesis keyboard layout
 ----------------------------------
 
+DEPRECATED PROJECT, it is moved to: https://github.com/Elive/programmerskblayout
+----------------------------------
+
 .. contents:: Table of Contents
 
 
